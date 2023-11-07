@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0ADILL3
 - 👀 I’m interested in C++ Programming
-- 🌱 I’m currently learning C, C++ and Arduino
+- 🌱 I’m currently learning C, C++ and Arduino Programming
 - 💞️ I’m looking to collaborate on IoT Project based Arduino
 - 📫 How to reach me adilllfirman@gmail.com
 
