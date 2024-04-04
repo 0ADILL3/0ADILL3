@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0ADILL3
-- 👀 I’m interested in C and C++ Programming
+- 👀 I’m interested in C, C++ and Python Programming
 - 🌱 I’m currently learning C, C++ Arduino and Python Programming
 - 💞️ I’m looking to collaborate on IoT Project based Arduino
 - 📫 How to reach me adilllfirman@gmail.com
